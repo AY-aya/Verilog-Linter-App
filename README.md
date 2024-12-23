@@ -1,5 +1,6 @@
 # Verilog-Linter-App
 ![logo](https://github.com/user-attachments/assets/80ab8f46-8412-459f-8d38-550693b1e25f)
+
 This app is a prototype for a Verilog Linter application, developed using c++ and Qt quick 6.7.2.
 This was developed only for learning purposes, for a university course on Electronic Design Automation
 # Table of Contents
@@ -24,6 +25,7 @@ this linter supports the following verilog RTL design rule checks:
    
 # How to setup
 the simplist method for trying this app is by running the console version on any c++ ide : Verilog_linter_console_app.cpp
+
 We also developed a simple gui using qt quick, this can be used by adding the header, source, and qml files to a qt project.
 
 # Usage Example
