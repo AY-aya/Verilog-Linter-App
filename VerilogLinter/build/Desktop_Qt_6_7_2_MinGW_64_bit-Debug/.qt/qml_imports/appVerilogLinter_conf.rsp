@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/VerilogLinter
+-cmake-output
+-output-file
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/VerilogLinter/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/appVerilogLinter_conf.cmake
+-importPath
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/VerilogLinter/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/VerilogLinter
+-importPath
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/VerilogLinter/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.2/mingw_64/./qml
+-qrcFiles
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/VerilogLinter/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_VerilogLinter.qrc
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/VerilogLinter/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appVerilogLinter_raw_qml_0.qrc
