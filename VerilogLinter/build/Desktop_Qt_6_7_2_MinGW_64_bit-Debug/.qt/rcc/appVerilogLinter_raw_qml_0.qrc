@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/VerilogLinter/">
-    <file alias="main.qml">C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/VerilogLinter/main.qml</file>
-    <file alias="assets/logo.png">C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/VerilogLinter/assets/logo.png</file>
-  </qresource>
-</RCC>
-
